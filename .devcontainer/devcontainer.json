@@ -10,7 +10,9 @@
 			"ms-vsliveshare.vsliveshare",
 			"mathematic.vscode-pdf",
 			"ms-azuretools.vscode-docker",
-			"DavidAnson.vscode-markdownlint"
+			"DavidAnson.vscode-markdownlint",
+			"GitHub.copilot",
+			"eamodio.gitlens"
 		]
 		}
 	},
