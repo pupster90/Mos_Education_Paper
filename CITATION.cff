@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Example"
+  given-names: "Name"
+  orcid: "https://orcid.org/0000-xxxx-xxxx-xxxx"
+- family-names: "Cordero"
+  given-names: "Core"
+  orcid: "https://orcid.org/0000-0002-3531-3221"
+- family-names: "Don"
+  given-names: "Setiawan"
+  orcid: "https://orcid.org/0000-0002-1624-2667"
+title: "Research Project Name"
+doi: 10.5281/zenodo.1xxxxxxx
+version: v1.0.0
+date-released: 202x-xx-xx
+url: "https://github.com/braingeneers/research-template"

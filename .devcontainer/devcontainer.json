@@ -1,0 +1,18 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+	"image":"ghcr.io/braingeneers/research:latest",
+
+	"customizations": {
+		"vscode": {
+		  "extensions": [
+			"ms-toolsai.jupyter",
+			"ms-python.python",
+			"ms-vsliveshare.vsliveshare",
+			"mathematic.vscode-pdf",
+			"ms-azuretools.vscode-docker",
+			"DavidAnson.vscode-markdownlint"
+		]
+		}
+	},
+	"postCreateCommand": "sh .devcontainer/post_create.sh"
+}
